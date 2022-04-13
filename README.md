@@ -1,9 +1,10 @@
 NecatOS
 =====
-
-  <a href="https://discord.gg/6FbvxZ9ekZ">
+ <p align="center">
+  <a href="https://discord.gg/zHCHRT6xNh">
     <img src="https://img.shields.io/discord/961777749188546580?color=7489d5&logo=discord&logoColor=ffffff" />
   </a>
+ </p>
 
 Fil Necati'nin yaşam felsefesinden esinlenmiş GNU/Linux dağıtımı veya yaygın tabiriyle **işletim
 sistemi**.
